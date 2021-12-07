@@ -1,0 +1,411 @@
+
+
+
+.img1
+{
+position: absolute;
+width: 130px;
+height: 50px;
+left: 52px;
+top: 14px;
+}
+/* text heading of sairaj*/
+.m1{
+  position: absolute;
+ width: 446px;
+ height: 50px;
+ left: 150px;
+ top: 400px;
+ font-family: Averta Demo PE Cutted Demo;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 24px;
+ line-height: 25px;
+ 
+ color: #000000;
+ 
+ }
+
+ .m2{
+  position: absolute;
+ width:76px;
+ height: 64px;
+ left: 63px;
+ top: 410px;
+}
+.m2 img{
+  height:50px;
+  width:50px;
+}
+/*Donate for a cause css*/
+.doante{
+  position: absolute;
+width: 200px;
+height: 20px;
+left: 987px;
+top: 15px;
+font-family: Averta Demo PE Cutted Demo;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+color: #FFFFFF;
+}
+/*My dashboard css*/
+.dash
+{
+position: absolute;
+width: 200px;
+height: 20px;
+left: 1140px;
+top: 15px;
+font-family: Averta Demo PE Cutted Demo;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+color: #FFFFFF;
+}
+/*Paragraph css*/
+.p1 {
+position: absolute;
+width: 300px;
+height: 30px;
+left: 65px;
+font-family: Averta Demo PE Cutted Demo;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+}
+.p3 {
+  position: absolute;
+  width: 300px;
+  height: 30px;
+  left: 65px;
+  font-family: Averta Demo PE Cutted Demo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 30px;
+  top:630px;
+  }
+  .p4
+  {
+    position: absolute; width: 700px; height: 100px; left: 65px;
+     top: 670px;font-family: Averta Demo PE Cutted Demo;
+     font-style: normal;font-weight: normal;
+     font-size: 16px;line-height: 20px; 
+     color: #000000;
+  }
+
+/* Goals Achieved */
+
+.goals
+{
+position: absolute;
+width: 400px;
+height: 30px;
+left: 36px;
+top: 1024px;
+
+font-family: Averta Demo PE Cutted Demo;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.g1
+{
+padding-top:35px;
+font-size:18px;
+position: absolute;
+width: 370px;
+height: 20px;
+left: 160px;
+}
+.g2
+{
+padding-top:35px;
+font-size:18px;
+position: absolute;
+width: 370px;
+height: 20px;
+left: 200px;
+}
+/* Footer*/
+.footer{
+position: absolute;
+width: 1519.2px;
+height: 100px;
+left: 0px;
+top: 2200px;
+
+background: #C4C4C4;
+}
+.video1
+{
+ top:100px;
+  height:300px;
+  width:50%;
+  padding-left: 60px;
+}
+.button1{
+  position:relative;
+}
+
+/* box */
+.box1
+{
+position:absolute;
+width: 350px;
+height: 380px;
+left: 900px;
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.3);
+box-sizing: border-box;
+box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.15);
+border-radius: 15px;
+top:450px;
+}
+.circle1
+{
+  position: absolute;
+width: 70px;
+height: 50px;
+top: 30px;
+}
+
+
+/* tax benefit*/
+.tax1,.tax12
+{
+  position: absolute;
+width: 82px;
+height: 20px;
+top: 100px;
+font-family: Averta Demo PE Cutted Demo;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+color: #000000;
+
+}
+
+/*beneficiary */
+
+.ben1,.ben12
+{
+  position: absolute;
+width: 82px;
+height: 20px;
+top: 140px;
+font-family: Averta Demo PE Cutted Demo;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+color: #000000;
+
+}
+.sec,.sec1
+{
+  position: absolute;
+  width: 82px;
+  height: 20px;
+  top: 170px;
+  font-family: Averta Demo PE Cutted Demo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+  color: #000000;
+}
+.dur,.dur1
+{
+  position:absolute;
+  width: 82px;
+  height: 20px;
+  top: 200px;
+  font-family: Averta Demo PE Cutted Demo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+  color: #000000;
+
+}
+.loc,.loc1
+{
+  position: absolute;
+  width: 82px;
+  height: 20px;
+  top: 230px;
+  font-family: Averta Demo PE Cutted Demo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+  color: #000000;
+
+}
+/* for checkbox*/
+
+.round {
+  position: relative;
+  
+}
+
+
+.round label {
+  background-color: rgb(151, 127, 127);
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.round label:after {
+  border: 3px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "";
+  height: 6px;
+  left: 7px;
+  opacity: 0.9;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+
+.round input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.round input[type="checkbox"]:checked + label {
+  background-color: #028551;
+  border-color: #00c577
+}
+
+.round input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+}
+
+
+
+.round1 {
+  position: relative;
+  
+}
+
+.round1 label {
+  background-color: rgb(92, 90, 90);
+  border: 2px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+ 
+  position: absolute;
+  top: 0px;
+  width: 28px;
+}
+
+.round1 label:after {
+  border: 3px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "";
+  height: 6px;
+  left: 6px;
+  opacity: 0.9;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+
+.round1 input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.round1 input[type="checkbox"]:checked + label {
+  background-color: #086d08;
+  border-color: #086d08;
+}
+
+.round1 input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+}
+
+.round2 {
+  position: relative;
+  
+}
+
+.round2 label {
+  background-color: rgb(92, 90, 90);
+  border: 2px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.round2 label:after {
+  border: 3px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "";
+  height: 6px;
+  left: 6px;
+  opacity: 0.9;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+
+.round2 input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.round2 input[type="checkbox"]:checked + label {
+  background-color: #086d08;
+  border-color: #086d08;
+}
+
+.round2 input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
